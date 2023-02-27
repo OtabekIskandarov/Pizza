@@ -1,3 +1,6 @@
+html {
+  overflow-x: hidden;
+}
 /* Carousel-start */
 .carousel-top {
   margin-top: 52.5px;
@@ -22,10 +25,10 @@
   }
   .carusel-3 {
     position: relative;
-    top: -200px;
+    top: -250px;
     width: 50%;
     height: 30%;
-    right: -500px;
+    right: -600px;
     text-align: left;
   }
   .text-caption-1h2 {
@@ -87,4 +90,24 @@
 }
 .logo-messenger {
   padding: 30px;
+
+}
+.text-res {
+  text-align: center;
+  padding: 10px;
+  margin-top: 80px;
+  letter-spacing: 1px;
+  color: white;
+}
+.txt-res {
+  color: white;
+  letter-spacing: 1px;
+  text-align: justify;
+  padding: 10px;
+  text-indent: 50px;
+  line-height: 30px;
+  word-spacing: 1px;
+}
+.photo1 {
+  padding: 0;
 }
