@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+}
+@media screen and (min-width:1200px) {
+  .carusel-caption-1 {
+    position: relative;
+    top: -200px;
+    left: -50px;
+    width: 50%;
+    height: 30%;
+    text-align: right;
+  }
+  .carusel-2 {
+    text-align: left;
+  }
+  .carusel-3 {
+    position: relative;
+    top: -200px;
+    width: 50%;
+    height: 30%;
+    right: -500px;
+    text-align: left;
+  }
+  .text-caption-1h2 {
+    color: white;
+    font-size: 3rem;
+    letter-spacing: 1px;
+  }
+  .text-caption-1h6 {
+    color: white;
+    font-size: 1rem;
+    letter-spacing: 1px;
+  }
+  .text-caption-2h2 {
+    color: #2B3035;
+    font-size: 3rem;
+    letter-spacing: 1px;
+  }
+  .text-caption-2h6 {
+    color: #2B3035;
+    font-size: 1rem;
+    letter-spacing: 1px;
+  }
+  .text-caption-3h2 {
+    color: white;
+    font-size: 3rem;
+    letter-spacing: 1px;
+  }
+  .text-caption-3h6 {
+    color: white;
+    font-size: 1rem;
+    letter-spacing: 1px;
+  }
+}
+.text-caption-2h2 {
+  color: #2B3035;
+}
+.text-caption-2h6 {
+  color: #2B3035;
+}
