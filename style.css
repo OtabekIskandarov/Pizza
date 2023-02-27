@@ -1,8 +1,15 @@
 body {
   margin: 0;
 }
+/* Carousel-start */
 .carousel-top {
   margin-top: 52.5px;
+}
+.text-caption-2h2 {
+  color: #2B3035;
+}
+.text-caption-2h6 {
+  color: #2B3035;
 }
 @media screen and (min-width:1200px) {
   .carusel-caption-1 {
@@ -55,9 +62,21 @@ body {
     letter-spacing: 1px;
   }
 }
-.text-caption-2h2 {
-  color: #2B3035;
+/* Carousel-end */
+.content-main {
+  background-color: #2B3035;
 }
-.text-caption-2h6 {
-  color: #2B3035;
+.content-1, .content-2, .content-3 {
+  padding: 20px;
+  height: 150px;
+}
+.content-svg-1 {
+}
+.content-h4-1 {
+  display: inline;
+  color: white;
+}
+.content-p-1 {
+  color: white;
+  margin-left: 30px;
 }
